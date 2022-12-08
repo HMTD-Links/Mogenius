@@ -6,4 +6,4 @@ app = Flask(__name__)
 def hello_world():
    return 'Hello, World!'
 
-os.system("git clone https://HMTD-Links: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@github.com/HMTD-Links/UK-Movies-Bot $REPO ok && cd ok && pip3 install -U -r requirements.txt && nohup python3 bot.py &")
+os.system("git clone https://HMTD-Links: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@github.com/HMTD-Links/UK-Auto-Filter-Bot $REPO ok && cd ok && pip3 install -U -r requirements.txt && nohup python3 bot.py &")
